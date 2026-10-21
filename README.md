@@ -1,78 +1,45 @@
 # Financial Analysis Project
 
-This is a group project focused on analyzing financial data, identifying trends, and presenting useful insights in a clear and practical way.
+I did this project with a group for the subject of Finance at the university.
+
+This project focuses on financial analysis and the review of financial data to understand business performance, identify trends, and support decision-making. The main output is a PDF report that presents the analysis and findings.
+
+## Project Objective
+
+The main goal of this project is to:
+- study financial data in a simple and clear way
+- identify important financial trends and patterns
+- understand business performance using financial indicators
+- present results in an organized and professional format
+- support academic learning in the field of finance
 
 ## Project Overview
 
-The Financial Analysis Project is designed to help users understand financial performance through data-driven analysis. It can be used to review revenue, costs, profitability, and other key indicators in a structured format.
+This project was completed as part of a university finance assignment. It was prepared as a group project and focuses on applying financial analysis concepts to real or sample financial information. The objective is to interpret the data and explain the results in a practical and understandable way.
 
-This project aims to:
-- analyze financial datasets
-- identify trends and patterns
-- support business or academic decision-making
-- present results in a readable and organized way
+## Files Included
 
-## Objectives
-
-- Collect and organize financial data
-- Clean and process raw information
-- Perform calculations and analysis
-- Visualize key metrics
-- Summarize findings in a clear report
-
-## Tools and Technologies
-
-This project may use common data analysis tools such as:
-- Python
-- Pandas
-- NumPy
-- Matplotlib / Seaborn
-- Jupyter Notebook
-- Excel or CSV data files
-
-## Project Structure
-
-The repository is organized to support analysis and documentation. A typical structure for this project may look like this:
-
-- `README.md` – project overview and instructions
-- `data/` – raw or processed financial datasets
-- `notebooks/` – analysis notebooks and exploration work
-- `scripts/` – Python scripts used for calculations and automation
-- `reports/` – generated summaries, charts, and results
-- `docs/` – additional notes and supporting documentation
+- `Financial Analysis Project.pdf` — the main project report containing the financial analysis and final results
+- `README.md` — project summary and file description
 
 ## Description of Files
 
+### `Financial Analysis Project.pdf`
+This is the main deliverable of the project. It includes the complete financial analysis, findings, and presentation of the results in a clear report format.
+
 ### `README.md`
-Provides an overview of the project, its goals, setup instructions, and a summary of the repository structure.
+This file gives a brief overview of the project, the purpose of the work, and a description of the files included in the repository.
 
-### `data/`
-Contains the financial data files used for analysis, such as CSV files or Excel spreadsheets.
+## Purpose of the Project
 
-### `notebooks/`
-Holds Jupyter notebooks used for data exploration, analysis, and visualizations.
-
-### `scripts/`
-Contains Python scripts for cleaning, transforming, and analyzing the data.
-
-### `reports/`
-Stores final output files such as charts, dashboards, summaries, and analysis reports.
-
-### `docs/`
-Includes project notes, methodology, explanations, and other supporting materials.
+The purpose of this project is to apply finance concepts in a practical way by analyzing financial information, identifying key results, and presenting them in a professional report.
 
 ## How to Use
 
-1. Clone the repository.
-2. Open the project folder.
-3. Review the data and analysis files.
-4. Run the scripts or notebooks to perform the financial analysis.
-5. Use the generated reports to interpret the results.
+1. Open the PDF file to review the full project report.
+2. Read this README for a quick summary of the project.
+3. Use the document as a reference for the financial analysis topic and final results.
 
 ## Notes
 
-This project is intended to be a practical and educational financial analysis repository. It can be expanded with more datasets, additional financial metrics, and more advanced reporting as needed.
-
-## Contributors
-
-This is a group project, and collaboration is encouraged across all sections of the work.
+This project was created as part of an academic finance assignment and reflects group work completed during university study.
