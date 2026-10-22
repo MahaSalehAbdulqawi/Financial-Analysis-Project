@@ -1,8 +1,6 @@
 # Financial Analysis Project
 
-I did this project with a group for the subject of Finance at the university.
-
-This project is a financial analysis assignment focused on reviewing financial statements and calculating key performance indicators to evaluate the financial position and performance of a business. The work includes analyzing balance sheet and income statement data, identifying trends, and interpreting the results in a clear and professional way.
+This project is a financial analysis group assignment focused on reviewing financial statements and calculating key performance indicators to evaluate the financial position and performance of a business. The work includes analyzing balance sheet and income statement data, identifying trends, and interpreting the results in a clear and professional way.
 
 ## Project Objective
 
