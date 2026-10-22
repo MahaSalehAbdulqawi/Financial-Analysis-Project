@@ -2,41 +2,66 @@
 
 I did this project with a group for the subject of Finance at the university.
 
-This project focuses on financial analysis and the review of financial data to understand business performance, identify trends, and support decision-making. The main output is a PDF report that presents the analysis and findings.
+This project is a financial analysis assignment focused on reviewing financial statements and calculating key performance indicators to evaluate the financial position and performance of a business. The work includes analyzing balance sheet and income statement data, identifying trends, and interpreting the results in a clear and professional way.
 
 ## Project Objective
 
 The main goal of this project is to:
-- study financial data in a simple and clear way
-- identify important financial trends and patterns
-- understand business performance using financial indicators
-- present results in an organized and professional format
-- support academic learning in the field of finance
+
+- study the financial performance of the company
+- analyze key financial statements
+- evaluate important financial ratios and indicators
+- identify strengths, weaknesses, and changes over time
+- present the findings in a clear and organized report
 
 ## Project Overview
 
-This project was completed as part of a university finance assignment. It was prepared as a group project and focuses on applying financial analysis concepts to real or sample financial information. The objective is to interpret the data and explain the results in a practical and understandable way.
+This project was completed as part of a university finance course. It focuses on practical financial analysis using real financial data and academic concepts such as profitability, efficiency, leverage, and overall business performance.
 
+The analysis includes:
 
-## Skills Gained
+- balance sheet review
+- income statement review
+- ratio analysis
+- comparison of financial results across years
+- interpretation of financial trends and company performance
 
-- Financial analysis and interpretation
-- Understanding business performance and financial trends
-- Use of financial ratios and indicators
+## Key Financial Areas Covered
+
+- Current assets and liabilities
+- Total assets and equity
+- Revenue and cost analysis
+- Gross profit and operating profit
+- Profit before tax and net profit
+- Return on assets (ROA)
+- Return on equity (ROE)
+- Asset turnover and other financial ratios
 
 ## Files Included
 
-- `Financial Analysis Project.pdf` — the main project report containing the financial analysis and final results
-- `README.md` — project summary and file description
+- `Financial Analysis Project.pdf` — final project report with the complete financial analysis and interpretation
+- `Financial Analysis Project.xlsx` — Excel file containing the original financial data and analysis sheets
+- `Financial Analysis Project.xlsx.csv` — CSV version of the financial data for easier viewing and processing
+- `Financial Analysis Project.xlsx.pdf` — PDF version exported from the Excel file
+- `README.md` — project overview and file descriptions
 
 ## Description of Files
 
 ### `Financial Analysis Project.pdf`
-This is the main deliverable of the project. It includes the complete financial analysis, findings, and presentation of the results in a clear report format.
+This is the main report of the project. It contains the full financial analysis, key findings, and a structured explanation of the company’s financial performance.
+
+### `Financial Analysis Project.xlsx`
+This Excel file contains the financial data used in the project, including balance sheet information, income statement values, and ratio calculations.
+
+### `Financial Analysis Project.xlsx.csv`
+This is the CSV version of the financial data. It is useful for quick review, data processing, and easier import into spreadsheet or analysis tools.
+
+### `Financial Analysis Project.xlsx.pdf`
+This is a PDF export of the Excel file, providing a readable version of the financial data and analysis in a portable format.
 
 ### `README.md`
-This file gives a brief overview of the project, the purpose of the work, and a description of the files included in the repository.
+This file explains the project purpose, objectives, and descriptions of all files included in the repository.
 
-## Purpose of the Project
+## Summary
 
-The purpose of this project is to apply finance concepts in a practical way by analyzing financial information, identifying key results, and presenting them in a professional report.
+This project helps apply finance concepts in a practical way by using financial statements and calculations to evaluate business performance. It demonstrates the importance of financial analysis in understanding company results and making better decisions.
